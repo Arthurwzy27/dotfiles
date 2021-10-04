@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = arthur.picard7@gmail.com
+	name = Arthur Picard
